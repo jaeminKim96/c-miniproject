@@ -1,0 +1,8 @@
+﻿  function.cpp
+C:\Users\user\Desktop\baseball\baseball\function.cpp(235,10): warning C4101: 'temp' :참조되지 않은 지역 변수입니다.
+C:\Users\user\Desktop\baseball\baseball\function.cpp(234,10): warning C4101: 'str' :참조되지 않은 지역 변수입니다.
+  main.cpp
+  player.cpp
+  코드를 생성하고 있습니다...
+  LINK : C:\Users\user\Desktop\baseball\x64\Debug\baseball.exe을(를) 찾을 수 없거나 마지막 증분 링크에 의해 빌드되지 않았습니다. 전체 링크를 수행하고 있습니다.
+  baseball.vcxproj -> C:\Users\user\Desktop\baseball\x64\Debug\baseball.exe
